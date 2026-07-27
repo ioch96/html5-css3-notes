@@ -11,7 +11,6 @@
 
 ### Εισαγωγή
 
-* [Το Internet](docs/internet.md)
 * [Ο World Wide Web (WWW)](docs/www.md)
 * [Web server](docs/web-server.md)
 * [Πώς λειτουργεί ο Browser](docs/browser.md)
