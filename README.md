@@ -200,15 +200,3 @@
 
 * Visual Studio Code Extensions
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
----
-
-## Μαθήματα
-
-* [x] Codegrow
-* [ ] [Codecademy](https://www.codecademy.com/)
-  * [x] Elements and Structure
-  * [x] Tables
-  * [ ] Forms
-  * [x] Semantic HTML
-* [ ] Δημήτρης Ψούνης
