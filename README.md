@@ -11,7 +11,6 @@
 
 ### Εισαγωγή
 
-* [Web server](docs/web-server.md)
 * [Πώς λειτουργεί ο Browser](docs/browser.md)
 * [Rendering](docs/rendering/index.md)
 * [Το αρχείο `index.html`](docs/index.md)
