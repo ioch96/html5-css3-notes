@@ -17,7 +17,6 @@
 |[`<a>`](docs/tags/a.md)|Ορίζει έναν υπερσύνδεσμο|🟢|21.07.2026|
 |[`<ol>`](docs/tags/ol.md)|Ορίζει μια αριθμημένη λίστα|🟢||
 |[`<img>`](docs/tags/img.md)|Ορίζει μια εικόνα|🟢||
-|[`<figcaption>`](docs/tags/figcaption.md)|Ορίζει λεζάντα για ένα `<figure>`|🟢||
 |[`<video>`](docs/tags/video.md)|Ορίζει ενσωματωμένο περιεχόμενο βίντεο|🟢||
 |[`<audio>`](docs/tags/audio.md)|Ορίζει ενσωματωμένο ηχητικό περιεχόμενο|🟢||
 |[`<table>`](docs/tags/table.md)|Ορίζει έναν πίνακα|🟢||
