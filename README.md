@@ -12,7 +12,6 @@
 ### Εισαγωγή
 
 * [Rendering](docs/rendering/index.md)
-* [Το αρχείο `index.html`](docs/index.md)
 * [Προσθήκη Favicon](docs/favicon.md)
 * [Το Emmet στο VS Code](docs/emmet-vsc.md)
 * [HTML `<div>` και `<span>`](docs/div_span.md)
