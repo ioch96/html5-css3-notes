@@ -11,7 +11,6 @@
 
 ### Εισαγωγή
 
-* [Πώς λειτουργεί ο Browser](docs/browser.md)
 * [Rendering](docs/rendering/index.md)
 * [Το αρχείο `index.html`](docs/index.md)
 * [Προσθήκη Favicon](docs/favicon.md)
