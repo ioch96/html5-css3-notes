@@ -15,7 +15,6 @@
 * [Προσθήκη Favicon](docs/favicon.md)
 * [Το Emmet στο VS Code](docs/emmet-vsc.md)
 * [HTML `<div>` και `<span>`](docs/div_span.md)
-* [Semantic HTML](docs/semantic-html.md)
 
 ---
 
